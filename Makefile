@@ -3,7 +3,7 @@
 
 PLATFORM?=local
 TMP_HOOKS:=/tmp/.chessdb_lib_hooks_empty.target
-VERSION:=src/chessdb_lib/core/version.py
+VERSION:=src/chessdb_lib/version.py
 
 .DEFAULT:help
 help:
